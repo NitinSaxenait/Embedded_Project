@@ -1,2 +1,2 @@
 [workspace]
-members = ["http_request", "stm32f3-compass"]
+members = ["http_request", "sensor_readings"]
