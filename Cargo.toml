@@ -1,0 +1,2 @@
+[workspace]
+members = ["http_request", "stm32f3-compass"]
